@@ -1,41 +1,65 @@
-# RELATÃ“RIO DE IMPLEMENTAÃ‡ÃƒO DE SERVIÃ‡OS AWS
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: [02/02/2026]
+Data: 02/02/2026
 Empresa: Abstergo Industries
-ResponsÃ¡vel: [Henrique Augusto]
+Responsável: Henrique Augusto
 
-## IntroduÃ§Ã£o
-Este relatÃ³rio apresenta o processo de implementaÃ§Ã£o de ferramentas na empresa [Abstergo Industries], realizado por [Henrique Augusto]. O objetivo do projeto foi elencar 3 serviÃ§os AWS, com a finalidade de realizar diminuiÃ§Ã£o de custos imediatos.
+# Introdução
 
-## DescriÃ§Ã£o do Projeto
-O projeto de implementaÃ§Ã£o de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos especÃ­ficos. A seguir, serÃ£o descritas as etapas do projeto:
+Este relatório apresenta o processo de implementação de serviços AWS na empresa Abstergo Industries, realizado por Henrique Augusto.
+O objetivo do projeto foi selecionar e descrever 3 serviços da AWS, com foco na redução imediata e progressiva de custos operacionais, considerando um cenário inicial sem uso prévio de serviços em nuvem.
 
-Etapa 1: Controle de custos e visibilidade (sem mexer na operação)
-- [AWS Cost Explorer]
-- [Monitorar e analisar os gastos com serviços AWS.]
-- [A farmácia passa a utilizar serviços básicos na AWS (site, sistema interno ou banco de dados).
-O AWS Cost Explorer permite visualizar detalhadamente os custos por serviço, período e tipo de uso, ajudando a identificar rapidamente quais recursos estão gerando mais despesas e possibilitando ajustes iniciais para evitar gastos desnecessários.]
+# Descrição do Projeto
 
-Etapa 2: Otimização
-- [AWS Compute Optimizer]
-- [Otimizar o uso de recursos computacionais.]
-- [Após coletar dados de uso, o AWS Compute Optimizer analisa o desempenho das instâncias utilizadas pela farmácia e recomenda tamanhos mais adequados (redução ou aumento), evitando servidores superdimensionados e reduzindo custos sem impactar o funcionamento do sistema.]
+O projeto de implementação foi dividido em 3 etapas, cada uma com um objetivo específico relacionado à gestão, otimização e redução de custos na AWS.
 
-Etapa 3: Redução de custo a longo prazo
-- [AWS Savings Plans]
-- [Garantir economia contínua por meio de compromissos de uso.]
-- [Com os recursos já otimizados e estáveis, a farmácia contrata AWS Savings Plans, obtendo descontos significativos sobre o uso contínuo de computação. Isso reduz o custo mensal da infraestrutura e torna os gastos mais previsíveis a longo prazo.]
+# Etapa 1 — Controle de custos e visibilidade (sem impactar a operação)
 
+Nome da ferramenta: AWS Cost Explorer
 
+Foco da ferramenta:
+Monitorar e analisar os gastos com serviços AWS.
 
-## ConclusÃ£o
-A implementaÃ§Ã£o de ferramentas na empresa *[Abstergo Industries] tem como esperado [benefÃ­cios das ferramentas]*, o que aumentarÃ¡ a eficiÃªncia e a produtividade da empresa. 
-Recomenda-se a continuidade da utilizaÃ§Ã£o das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+Descrição do caso de uso:
+A farmácia inicia a utilização de serviços básicos na AWS, como site institucional, sistema interno ou banco de dados.
+O AWS Cost Explorer permite visualizar detalhadamente os custos por serviço, período e tipo de uso, facilitando a identificação de recursos que geram maiores despesas e possibilitando ajustes iniciais para evitar gastos desnecessários.
 
-## Anexos
+# Etapa 2 — Otimização de recursos
 
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
+Nome da ferramenta: AWS Compute Optimizer
 
-Assinatura do ResponsÃ¡vel pelo Projeto:
+Foco da ferramenta:
+Otimizar o uso de recursos computacionais.
 
-[Henrique Augusto]
+Descrição do caso de uso:
+Após a coleta de dados de utilização, o AWS Compute Optimizer analisa o desempenho das instâncias em execução e recomenda configurações mais adequadas (redução ou redimensionamento).
+Isso evita o uso de servidores superdimensionados, reduzindo custos sem comprometer o desempenho das aplicações utilizadas pela farmácia.
+
+# Etapa 3 — Redução de custos a longo prazo
+
+Nome da ferramenta: AWS Savings Plans
+
+Foco da ferramenta:
+Garantir economia contínua por meio de compromissos de uso.
+
+Descrição do caso de uso:
+Com a infraestrutura estabilizada e otimizada, a farmácia adota o AWS Savings Plans, obtendo descontos significativos sobre o uso contínuo de recursos de computação.
+Essa estratégia reduz o custo mensal da infraestrutura e torna os gastos mais previsíveis a longo prazo.
+
+# Conclusão
+
+A implementação dos serviços AWS na empresa Abstergo Industries tem como resultado esperado a redução de custos operacionais, maior controle financeiro, melhor aproveitamento dos recursos em nuvem e previsibilidade dos gastos.
+
+Recomenda-se a continuidade da utilização das ferramentas implementadas, bem como a avaliação periódica da infraestrutura, visando identificar novas oportunidades de otimização e melhoria dos processos da empresa.
+
+# Anexos
+
+Manuais das ferramentas AWS utilizadas
+
+Relatórios de custos
+
+Planilhas de acompanhamento financeiro
+
+Assinatura do Responsável pelo Projeto:
+
+Henrique Augusto
