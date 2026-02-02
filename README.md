@@ -1,17 +1,22 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 02/02/2026
+
 Empresa: Abstergo Industries
+
 Responsável: Henrique Augusto
+
 
 # Introdução
 
 Este relatório apresenta o processo de implementação de serviços AWS na empresa Abstergo Industries, realizado por Henrique Augusto.
 O objetivo do projeto foi selecionar e descrever 3 serviços da AWS, com foco na redução imediata e progressiva de custos operacionais, considerando um cenário inicial sem uso prévio de serviços em nuvem.
 
+
 # Descrição do Projeto
 
 O projeto de implementação foi dividido em 3 etapas, cada uma com um objetivo específico relacionado à gestão, otimização e redução de custos na AWS.
+
 
 # Etapa 1 — Controle de custos e visibilidade (sem impactar a operação)
 
@@ -60,6 +65,4 @@ Relatórios de custos
 
 Planilhas de acompanhamento financeiro
 
-Assinatura do Responsável pelo Projeto:
-
-Henrique Augusto
+Assinatura do Responsável pelo Projeto: Henrique Augusto
